@@ -1,0 +1,9 @@
+C:\Users\MINHTUAN\source\repos\SelectClauseToCsModel\SelectClauseToCsModel\bin\Release\SelectClauseToCsModel.exe.config
+C:\Users\MINHTUAN\source\repos\SelectClauseToCsModel\SelectClauseToCsModel\bin\Release\SelectClauseToCsModel.exe
+C:\Users\MINHTUAN\source\repos\SelectClauseToCsModel\SelectClauseToCsModel\bin\Release\SelectClauseToCsModel.pdb
+C:\Users\MINHTUAN\source\repos\SelectClauseToCsModel\SelectClauseToCsModel\obj\Release\SelectClauseToCsModel.Form1.resources
+C:\Users\MINHTUAN\source\repos\SelectClauseToCsModel\SelectClauseToCsModel\obj\Release\SelectClauseToCsModel.Properties.Resources.resources
+C:\Users\MINHTUAN\source\repos\SelectClauseToCsModel\SelectClauseToCsModel\obj\Release\SelectClauseToCsModel.csproj.GenerateResource.Cache
+C:\Users\MINHTUAN\source\repos\SelectClauseToCsModel\SelectClauseToCsModel\obj\Release\SelectClauseToCsModel.csproj.CoreCompileInputs.cache
+C:\Users\MINHTUAN\source\repos\SelectClauseToCsModel\SelectClauseToCsModel\obj\Release\SelectClauseToCsModel.exe
+C:\Users\MINHTUAN\source\repos\SelectClauseToCsModel\SelectClauseToCsModel\obj\Release\SelectClauseToCsModel.pdb

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Đọc cái gì, có gì zui hông?-->
+<config>
+  <contains>
+    <mapData type="string">url,path,link,description,title,name</mapData>
+    <mapData type="string">duongdan,mota,ten</mapData>
+    <mapData type="int">id,quantity</mapData>
+    <mapData type="int">id,soluong</mapData>
+    <mapData type="decimal">price</mapData>
+    <mapData type="decimal">gia,tien</mapData>
+    <mapData type="bool">allow,deleted</mapData>
+    <mapData type="bool">chophep,duocphep,daxoa</mapData>
+    <mapData type="DateTime">date,day</mapData>
+    <mapData type="DateTime">ngay,thoigian</mapData>
+  </contains>
+  <startsWith>
+    <mapData type="int">Ma</mapData>
+    <mapData type="bool">Is</mapData>
+  </startsWith>
+</config>
